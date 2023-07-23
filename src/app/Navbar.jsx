@@ -126,7 +126,7 @@ function Navbar() {
             </div>
           </button>
           <div className="header-menu hidden lg:block">
-            <ul className="flex space-x-10 text-base font-bold text-black/60">
+            <ul className="flex gap-x-10 text-base font-semibold text-black/60">
               {menuItems.map((menuItem, index) => (
                 <li key={index}>
                   <a href={menuItem.url}>
