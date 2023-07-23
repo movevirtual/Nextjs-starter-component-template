@@ -41,7 +41,7 @@ function HeroSection() {
       </div>
 
       {/* Featured-company Section */}
-      <div className="testimonial-company flex flex-col gap-y-5 lg:gap-y-10 items-center justify-center py-5 lg:py-20">
+      <div className="testimonial-company flex flex-col gap-y-5 lg:gap-y-10 items-center justify-center py-5 lg:py-14">
         <p className="text-base text-center lg:text-xl font-medium px-20">
           We have the fast paced growing companies with us
         </p>
